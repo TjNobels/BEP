@@ -1,0 +1,14 @@
+Indicator,Correlation Coefficient,P Value
+GDP,0.00,1.00
+HDI,0.71,1.93E-19
+Expected Year of Schooling,0.71,1.07E-19
+GNI,0.73,3.87E-21
+CPI,0.98,7.96E-81
+EF Total,-0.18,0.0496
+EF Crop Land,-0.21,0.0215
+EF Grazing Land,-0.18,0.0556
+EF Forest Land,-0.10,0.2587
+EF Fishing ground,-0.14,0.1332
+EF built up area,-0.22,0.0177
+EF carbon,-0.17,0.0644
+GINI,-0.29,1.60E-03
